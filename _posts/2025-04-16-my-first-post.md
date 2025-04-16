@@ -5,4 +5,4 @@ categories: [blog]
 tags: [intro, personal]
 ---
 
-Okay, so this is a good way for KING AASHISH to write his feelings. My mother beat me today with slaps, punches, her footwear. Whole day she's busy on call doing chugli of her brother's wife to people. I felt sad yes, I don't care. I want a better life so I will work hard for it. Fuck feelings.
+Okay, so this is a good way for KING AASHISH to write about his day. My mother beat me today with slaps, punches, her footwear.Uhmm who cares. Everyday for the whole day she's busy on call doing chugli of her brother's wife. I want a better life so I will work hard for it. Fuck feelings. Anyone who'll come in between me and my goals has to eradicate, unfortunately I can't eradicate her, all I have to do is IGNORE.
