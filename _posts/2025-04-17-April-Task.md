@@ -20,4 +20,4 @@ So, I have 24 hours in a day like everybody. Here's a routine I have to follow.
 7. Complete my exercises. And eat soyabean chunks and eggs. 
 8. Drop my sister tuition, come back and sleep for a bit
 9. Wake up, go and bring her. Come back and start with networking. 8pm
-10. Read BOOK, anything related to self help. Sleep till 10.30pm
+10. Read BOOK, anything related to self help. Flexibility + Neck Workout. Sleep till 10.30pm
