@@ -12,3 +12,5 @@ I know from a fact that in IT there is more practical stuff we have to do than c
 Reason why I ditched VirtualBox and shifted to VMwareWorkstation is only because I saw on Linux Wale Guruji's channel that in corpporate environment, mostly VMware is used and they also provide a certification for same. VMware looks better than VitualBox but is slightly heavier on the machine. Installing VMware was again a hassle as I had to go through their login process then install a file with file extension '.bundle'. Linux mein extension nhi hote. Mai pta nhi ese kyu mention kr ra. Anyways hope you get the point. AFter giving it necessary permissions and making it executable using chmod command. It finally ran. But it couldn't load up because some dependencies were missing. Then 5 minutes I had to invest into fixing missing dependencies. I will thank Sam Altman for making chatgpt, without his help I couldn't fix it that fast. ChatGPT actually has saved my time at multiple instances. 
 
 That was it. Thanking everyone and signing off ~ Aashish
+
+Update: I didn't knew RHEL9 is free for developer or student use. So eventually I got the iso. 
