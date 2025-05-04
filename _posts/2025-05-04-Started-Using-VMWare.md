@@ -1,6 +1,6 @@
 ---
 title: Alma Linux and VMware Workstation Pro
-date: 2025-05-03 00:00:00 +0530
+date: 2025-05-04 00:00:00 +0530
 categories: [Blogs]
 tags: [goals, cyber, system administrator, vmware, virtual machine, linux, almalinux]
 ---
