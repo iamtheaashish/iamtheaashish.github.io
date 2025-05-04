@@ -1,7 +1,7 @@
 ---
 title: "My First Blog Post"
 date: 2025-04-16 12:00:00 +0530
-categories: [blog]
+categories: [Blogs]
 tags: [intro, personal]
 ---
 

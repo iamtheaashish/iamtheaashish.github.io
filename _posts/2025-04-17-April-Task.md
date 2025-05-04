@@ -1,7 +1,7 @@
 ---
 title: "April Task"
 date: 2025-04-16 24:00:00 +0530
-categories: [blog]
+categories: [Blogs]
 tags: [update, april]
 ---
 Hello, So yesterday I made this github blog and learnt to use git. And I believe it's a great thing to journal over here than in the notebook or journal. This permanently saves my words. Well Well. My name is Aashish and I was born on 3 August 2006, officially or legally born on 3 April 2007. I am 18 years old at the moment. I am lower middle class right now. But soon I want to come in upper middle class segment of the society. Right now I don't get money for GYM from my parents. And I don't and will not blame for my circumstances but I will blame them for making me study science in class 11 and 12 even when I refused. I am 18 and I have to figure everything out myself. What's my networth today on 17 April 2025. I have this computer worth ₹25k , I have this table on which the computer sits and relaxes (it was free for me as Ankit mama gave it), I have ₹30 in the drawer of the table. And nothing else. The question is do I want to die in the same way. Probably not. I want to be rich enough that I never have to think about not having enough money. Money and Power are co-related. Money gives Power and Power gives Money. I don't have luxurious thoughts currently. But for sure if I earn enough money, my life is going to be better than before. I could afford a premium gym membership, a good diet, clothes that would fit.
