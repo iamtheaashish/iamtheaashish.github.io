@@ -18,3 +18,5 @@ so here is the screenshot:
 ![Board Result 2025](/assets/post/image.jpg)
 
 I have hidden my board roll number and my parents name for obvious reasons, I am the king, all attention shall be towards the king.
+
+I had never thought I would even pass physics after giving the exam. I calculated my marks after coming home, and it was 14.5 roughly, far below 23.5 . And mind you I got 42 marks in physics. I even got 42 in Biology for which I had studied a lot. HOW? 
