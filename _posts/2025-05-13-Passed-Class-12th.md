@@ -20,3 +20,6 @@ so here is the screenshot:
 I have hidden my board roll number and my parents name for obvious reasons, I am the king, all attention shall be towards the king.
 
 I had never thought I would even pass physics after giving the exam. I calculated my marks after coming home, and it was 14.5 roughly, far below 23.5 . And mind you I got 42 marks in physics. I even got 42 in Biology for which I had studied a lot. HOW? IDK good thing is I passed and my parents were not expecting 78% but they are happy.
+
+Editing this post on 14/05/2025 at 12:07pm
+I didn't knew my parents are so happy from my marks that mutton has been cooked this morning, this might be a normal thing for most of you. But mutton is sold at around ₹750 per kg and this price is more than my fathers daily income.
