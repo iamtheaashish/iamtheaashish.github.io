@@ -1,6 +1,6 @@
 ---
 title: Short Term Goals Update
-date: 2025-05-1500:00:00 +0530
+date: 2025-05-19 00:00:00 +0530
 categories: [Blogs]
 tags: [self, goals, linux, sysadmin, RHCSA, redhat]
 ---
