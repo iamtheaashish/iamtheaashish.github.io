@@ -94,6 +94,7 @@ Eventually, I edited the correct file, saved it, and — it worked! The updated 
 ---
 
 > I didn’t build this to show off or solve a major problem — I built it because I was curious. It started with an itch to automate something personal, and in the process, I learned about useful Linux tools that are widely used in real sysadmin and DevOps workflows.
+
 ---
 
 ## 🔗 Project Resources
