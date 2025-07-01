@@ -57,3 +57,24 @@ Restart=on-failure
 [Install]
 WantedBy=default.target ``` </pre>
 
+I enabled it with:
+systemctl --user daemon-reexec
+systemctl --user daemon-reload
+systemctl --user enable --now auto_upload.service
+
+## 🧪 Testing and Mistakes
+
+Naturally, I ran into a few mistakes — at one point, I mistakenly typed the filename as `Prompts.txt` instead of `Prompt.txt`, and the script silently failed. Small hiccups like that helped me understand why precision matters in scripting.
+
+Eventually, I edited the correct file, saved it, and — it worked! The updated file showed up in the specific Google Drive folder I had configured.
+
+---
+
+## 🧠 What I Learned
+
+- How to monitor file changes with `inotifywait`  
+- How to upload files to Google Drive using `rclone`  
+- How to create and manage user-level `systemd` services  
+- That curiosity-driven learning can lead to real-world usable scripts  
+
+I didn’t build this to show off or solve a major problem — I built it because I was curious. It started with an itch to automate something personal, and in the process, I learned about useful Linux tools that are widely used in real sysadmin and DevOps workflows.
