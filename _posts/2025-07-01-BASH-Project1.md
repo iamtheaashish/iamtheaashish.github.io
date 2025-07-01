@@ -94,3 +94,9 @@ Eventually, I edited the correct file, saved it, and — it worked! The updated 
 ---
 
 > I didn’t build this to show off or solve a major problem — I built it because I was curious. It started with an itch to automate something personal, and in the process, I learned about useful Linux tools that are widely used in real sysadmin and DevOps workflows.
+---
+
+## 🔗 Project Resources
+
+- 📸 [View Screenshots](https://github.com/iamtheaashish/BASH_Projects/blob/main/auto_upload_2025-07-01.md)  
+- 🖥️ [View the Bash Script](https://github.com/iamtheaashish/BASH_Projects/blob/main/auto_upload_2025-07-01.sh)
