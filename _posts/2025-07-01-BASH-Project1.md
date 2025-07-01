@@ -4,72 +4,52 @@ date: 2025-07-01 00:00:00 +0530
 tags: [bash, linux, systemd, rclone, personal-project]
 ---
 
-For a long time, I’ve been saving helpful prompts from ChatGPT in a text file called `Prompt.txt` on my desktop. I wanted an automated way to back it up to Google Drive whenever it’s updated.
+Sometimes, the best way to learn something is to follow a random idea and see where it leads.
 
-So I challenged myself to **build a solution using only Bash scripting** and available CLI tools.
+I’ve been learning Bash scripting lately, and while practicing, I had this thought:  
+> *“Wouldn't it be cool if a text file on my desktop could automatically upload to Google Drive every time I update it?”*
 
----
-
-## 🔧 The Problem
-
-I wanted `Prompt.txt` to upload to Google Drive **automatically** whenever I edited it — and **without needing to remember to do it manually**.
+It wasn't a "big" idea. I wasn't even sure if it would be useful for others. But I had a file named `Prompt.txt` that I use to store helpful prompts from ChatGPT, and backing it up automatically felt like a good personal challenge — and a great excuse to dig deeper into the Linux ecosystem.
 
 ---
 
-## 💡 The Solution
+## 🔧 What I Wanted to Build
 
-I built a Bash script that:
-- Watches `Prompt.txt` for changes using `inotifywait`
-- Uploads it to Google Drive using `rclone`
-- Runs in the background on boot using a systemd user service
-
----
-
-## 📁 Tools Used
-
-- `rclone` (not installed by default — needed setup)
-- `inotify-tools` for real-time file monitoring
-- systemd user service (created my own unit)
+- A script that watches `Prompt.txt` for changes  
+- Whenever it's modified, it should upload the file to Google Drive  
+- The process should run in the background and persist across reboots  
+- The setup should be clean and not depend on a desktop GUI
 
 ---
 
-## ⚙️ How I Did It
+## 💡 Tools I Discovered
 
-I wrote this script:  
-```bash
-# ~/.local/bin/auto_upload.sh
-#!/bin/bash
+This was a great opportunity to explore a few powerful command-line tools:
 
-PROMPT_FILE="$HOME/Desktop/Prompt.txt"
-GDRIVE_FOLDER="aashish_drive:BashUploads"
-TEMP_DIR="$HOME/.local/tmp_uploaded_files"
+- **`rclone`** — to upload files to Google Drive  
+- **`inotifywait`** (from `inotify-tools`) — to detect when the file changes  
+- **`systemd`** (as a user-level service) — to ensure the script runs at startup  
 
-mkdir -p "$TEMP_DIR"
+I didn’t know about these tools beforehand. While the idea and the script were mine, I used ChatGPT to help me discover and configure the tools. It was less about copying and more about understanding how they worked.
 
-# Wait until file exists
-while [ ! -f "$PROMPT_FILE" ]; do
-    echo "Waiting for $PROMPT_FILE to exist..."
-    sleep 5
-done
+---
 
-inotifywait -m -e close_write --format '%w%f' "$PROMPT_FILE" | while read file; do
-    TIMESTAMP=$(date +"%H-%M_%Y-%m-%d")
-    BASENAME=$(basename "$file" .txt)
-    NEWFILE="${BASENAME}_${TIMESTAMP}.txt"
-    TEMP_PATH="$TEMP_DIR/$NEWFILE"
+## 🖥️ My Environment
 
-    cp "$file" "$TEMP_PATH"
-    rclone copy "$TEMP_PATH" "$GDRIVE_FOLDER"
-    echo "[$(date +"%H:%M:%S")] Uploaded: $NEWFILE"
-done
+- **Host OS**: Debian 12 (not a VM — I wanted this to run on my actual system)  
+- **File to monitor**: `~/Desktop/Prompt.txt`  
+- **Script location**: `~/.local/bin/auto_upload.sh`  
+- **Systemd unit file**: `~/.config/systemd/user/auto_upload.service`  
 
-...
+---
 
-Then created a systemd unit at:
-```bash
-# ~/.config/systemd/user/auto_upload.service
+## 📜 The Systemd Service
+
+To make the script run automatically, I created a user-level systemd service:
+
+```ini
 [Unit]
-Description=Auto upload Prompts.txt to Google Drive
+Description=Auto upload Prompt.txt to Google Drive
 After=network.target
 
 [Service]
@@ -80,4 +60,3 @@ Restart=on-failure
 [Install]
 WantedBy=default.target
 
-...
