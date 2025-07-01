@@ -47,5 +47,12 @@ I didn’t know about these tools beforehand. While the idea and the script were
 
 To make the script run automatically, I created a user-level systemd service:
 
-<pre lang="markdown"> ```ini [Unit] Description=Auto upload Prompt.txt to Google Drive After=network.target [Service] Type=simple ExecStart=/home/aashish/.local/bin/auto_upload.sh Restart=on-failure [Install] WantedBy=default.target ``` </pre>
+<pre lang="markdown"> ```ini [Unit] Description=Auto upload Prompt.txt to Google Drive 
+After=network.target 
+[Service]
+Type=simple 
+ExecStart=/home/aashish/.local/bin/auto_upload.sh 
+Restart=on-failure 
+[Install]
+WantedBy=default.target ``` </pre>
 
