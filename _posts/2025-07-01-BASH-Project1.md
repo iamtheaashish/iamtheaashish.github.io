@@ -58,6 +58,7 @@ Restart=on-failure
 WantedBy=default.target ``` </pre>
 
 I enabled it with:
+
 systemctl --user daemon-reexec
 
 systemctl --user daemon-reload
