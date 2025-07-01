@@ -57,7 +57,7 @@ Restart=on-failure
 [Install]
 WantedBy=default.target ``` </pre>
 
-I enabled it with:
+# I enabled it with:
 
 systemctl --user daemon-reexec
 
