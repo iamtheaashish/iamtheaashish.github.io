@@ -5,7 +5,7 @@ tags: [bash, linux, systemd, rclone, personal-project]
 categories: [Projects, Linux]
 comments: true
 ---
-
+https://github.com/iamtheaashish/BASH_Projects/blob/main/auto_upload_2025-07-01.md
 Sometimes, the best way to learn something is to follow a random idea and see where it leads.
 
 I’ve been learning Bash scripting lately, and while practicing, I had this thought:
