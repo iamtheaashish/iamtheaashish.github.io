@@ -29,10 +29,14 @@ I want to be better than those who have certification. I can have certification 
         1. Git - read `Pro Git` book.  
         2. Honestly I don't know much about them right now. I shall read all the books related to DevOps and understand what tools and technologies to keep in my arsenal. 
 ***
-> DevOps will help me earn money. That money will fund my experiments/projects/businesses to ***stop climate change***. By giving my parents money, they'll let me live my life peacefully. I would be able to focus on my goal. 
+> DevOps will help me earn money. That money will fund my experiments/projects/businesses to ***stop climate change***. By giving my parents money, they'll let me live my life peacefully. I would be able to focus on my goal.
+
 ***
+
 So I will keep updating this blog to define my next month's objectives over here. I will also have a physical copy of these objectives in front of my computer desk to remind me. Along with getting strong mentally, I also have to focus on becoming physically strong, so it's a shame for me to skip daily workout. I shouldn't have time for BEKAAR kI CHIZE. This world can no longer support *mediocre people*.
+
 ***
+
 ### ***September 2025***
 1. Complete AWS videos by Reyaz Sir + Prepare All Digital Notes + Practice
 2. Complete Remaining Linux by Nehra Sir + Prepare All Digital Notes (I have physical notes) + 
