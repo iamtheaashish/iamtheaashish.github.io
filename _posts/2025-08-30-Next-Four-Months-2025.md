@@ -28,7 +28,9 @@ I want to be better than those who have certification. I can have certification 
 7. ***Other DevOps Tools***  
         1. Git - read `Pro Git` book.  
         2. Honestly I don't know much about them right now. I shall read all the books related to DevOps and understand what tools and technologies to keep in my arsenal. 
+
 ***
+
 > DevOps will help me earn money. That money will fund my experiments/projects/businesses to ***stop climate change***. By giving my parents money, they'll let me live my life peacefully. I would be able to focus on my goal.
 
 ***
