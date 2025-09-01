@@ -49,3 +49,8 @@ So I will keep updating this blog to define my next month's objectives over here
 7. Complete The Phoenix Project book.
 
 I will update this blog on 30 September 2025 to define my October goals and tell you about what all was accomplished.
+
+Update: 1 September 2025
+I have decided to do complete detox. No social media, not even YouTube. Only fun right now I can get is reading The phoenix project and The unicorn project. Nothing Else.
+I don't want to stimulate myself with unnecessary thoughts, specially political stuff which offers cheap emotions. These political things come to me through social media only. 
+I have to relly less on ChatGPT and I have to relly on my own research through blogposts and articles online. I have told her to talk to me on weekends only. I will use social media on weekends only. Any BIG news of my interest will come to me automatically. I have a bigger purpose. Can't focus on little things. All this I wrote came to me as POST NUT Clarity. My most actions are because I am on social media. I won't use it to degrade myself. I have to become a GReat DevOps engineer and start earning to start my businesses and execute my ideas which I have long planned.
