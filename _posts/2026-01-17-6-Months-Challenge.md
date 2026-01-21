@@ -23,3 +23,7 @@ I have learnt all the major/basic services of AWS CLOUD from videos shared by my
 I am currently learning Docker and will eventually learn other tools by reading book, lectures are slow and are designed to be easy to consume. They don't go into depths. So I am learning Docker from "Docker Deep Dive".
 
 In 6 months, I will write another blog on 17 July 2026 to update my progress.
+
+## Edit: 21 January 2026
+So Hitesh sir also shared an adivce which I am going to follow. That is writing/typing down your thoughts on paper/screen. That will help me become a better communicator.
+Secondly, I am only going to do one topic a day and not try to rush over. I won't do extra. I will maintain consistency. 
