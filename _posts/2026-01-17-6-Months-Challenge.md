@@ -27,3 +27,13 @@ In 6 months, I will write another blog on 17 July 2026 to update my progress.
 ## Edit: 21 January 2026
 So Hitesh sir also shared an adivce which I am going to follow. That is writing/typing down your thoughts on paper/screen. That will help me become a better communicator.
 Secondly, I am only going to do one topic a day and not try to rush over. I won't do extra. I will maintain consistency. 
+
+## Edit: 23 January 2026
+I am eating too much sugar and too much junk. I need to stop it, it is reducing my effective time on Earth. It is slowing me down. I am not exercising daily also.
+I am eating a lot of CARBS FATS and not enough PROTEIN. Also I am using a little EXTRA social media. I should use it during a particular window, i.e. only half n hour before 2pm.
+I am also listening way too much music, singers self fallacy, when I listen to it, I am believing (for that duration of song) that I am successful, however I am not. 
+So here things I don't have to do: 
+1. Don't just depend on sugar and carbs, take enough protein.
+2. Don't stay lazy and sloppy, exercise.
+3. Don't use social media at any time of the day.
+4. Don't listen to music, stay calm.
