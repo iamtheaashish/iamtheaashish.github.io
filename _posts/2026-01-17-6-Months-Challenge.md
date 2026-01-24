@@ -37,3 +37,7 @@ So here things I don't have to do:
 2. Don't stay lazy and sloppy, exercise.
 3. Don't use social media at any time of the day.
 4. Don't listen to music, stay calm.
+
+## Edit: 24 January 2026
+I am stopping live streams I am doing. Too much for my PC. Maybe my idea was to study infront of someone so I do the work, but now I am realising that I should be able to do the work when no one is watching. I am also thinking to start a new agency which builds android apps for businesses. But android development in Kotlin, not in React Native.
+But I am not running away from learncpp.com. I will finish learncpp then move to kotlin or go. DOn't know but it will happen. I need to stop eating before 12 pm . Need to reserve morning time for studying. 
