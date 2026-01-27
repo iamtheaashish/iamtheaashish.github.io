@@ -14,13 +14,15 @@ Okay 100 Pushups, 100 Squats, 100 Situps, 100 Neckraises, 500 Jumping Jacks ever
 
 I sometimes watch youtube shorts endlessly. And the amount of time that I am wasting is ludicrous. Let me show you some stats.
 
-[](/assets/post_images/01_2026-01-27.jpg)
-[](/assets/post_images/02_2026-01-27.jpg)
-[](/assets/post_images/03_2026-01-27.jpg)
-[](/assets/post_images/04_2026-01-27.jpg)
-[](/assets/post_images/05_2026-01-27.jpg)
-[](/assets/post_images/06_2026-01-27.jpg)
-[](/assets/post_images/07_2026-01-27.jpg)
-[](/assets/post_images/08_2026-01-27.jpg)
+![](/assets/post_images/01_2026-01-27.jpg)
+![](/assets/post_images/02_2026-01-27.jpg)
+![](/assets/post_images/03_2026-01-27.jpg)
+![](/assets/post_images/04_2026-01-27.jpg)
+![](/assets/post_images/05_2026-01-27.jpg)
+![](/assets/post_images/06_2026-01-27.jpg)
+![](/assets/post_images/07_2026-01-27.jpg)
+![](/assets/post_images/08_2026-01-27.jpg)
 
 So to social media, I am limiting myself to just 2 hours a day.
+
+Secondly I want to spend more time reading. Whether it is tech books or self improvement. They are going to improve my vocab
