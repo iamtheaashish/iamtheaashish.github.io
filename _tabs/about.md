@@ -1,8 +1,5 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
+This is a blog where I write my experiences with technology and life.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I could have used substack, but no. THis is primary place where I will write/type.
+
+I may copy content from here to X articles and Substack.
