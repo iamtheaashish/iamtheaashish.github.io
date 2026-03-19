@@ -24,7 +24,9 @@ This year I learnt Docker by reading Docker Deep Dive. And I have been, almost e
 
 I am really confused about what technology stack to learn this year so I can apply for internships, last year I focused on DevOps & Infrastructure, turns out that most intern devops role are just monitoring and companies hire skilled and experienced DevOps engineers who were previously system administrators or had experience in Development side of things. So that's how I thought that I will learn backend development.
 
-I have completed 56% of learncpp[dot]com, and I will complete rest of it by the end of April I suppose. Then I am planning to learn Python Backend religiosly with PostgreSQL. 
+I have completed 56% of learncpp[dot]com, and I will complete rest of it by the end of April I suppose. Then I am planning to learn Python Backend religiosly with PostgreSQL.
+
+I am also working on being a cracked dev. Got aware about this term cracked on Coding Jesus's YT channel, have been obsessing over it. Now I have a skill of using VIM as my primary code editor and Tmux for splitting my terminal into multiple panes without having a headache of opening multiple terminal windows.
 
 I have come across a book, which is a guide to becoming a FARM Developer. Which is FastAPI, React, and MongoDB. This is a fullstack technology, I am aiming to learn by end of my 2nd Semester.
 
